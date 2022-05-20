@@ -72,7 +72,7 @@ Se requiere un análisi exhaustivo del circuito mostrado en la figura 1.1. Anote
 
 ### **Tabla 1.2. Verificacion de la LVK**
 
-![Ta 2](https://user-images.githubusercontent.com/105742149/169469745-d6029493-42aa-4d9d-b4ec-183bb8bb242a.jpeg)
+![Trayec](https://user-images.githubusercontent.com/105742149/169473994-95100854-4032-4ca5-924a-54aebe8725b0.jpeg)
 
 ***Calculos Trayectoria 1***
 
