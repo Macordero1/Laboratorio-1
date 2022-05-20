@@ -72,6 +72,9 @@ Se requiere un análisi exhaustivo del circuito mostrado en la figura 1.1. Anote
 
 ### **Tabla 1.2. Verificacion de la LVK**
 
+![Ta 2](https://user-images.githubusercontent.com/105742149/169469745-d6029493-42aa-4d9d-b4ec-183bb8bb242a.jpeg)
+
+
 ### **1.5.4. Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando con signo positivo las corrientes que entran al nodo y con signo negativo las que salendel nodo. Anote los resultados en la tabla 1.3.**
 
 ### **Tabla 1.3. Verificación de la LCK.**
