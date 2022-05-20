@@ -28,6 +28,13 @@ Se requiere un análisi exhaustivo del circuito mostrado en la figura 1.1. Anote
 
 ## **1.3. Información General**
 
+![Mapa_page-0001](https://user-images.githubusercontent.com/105742149/169455172-831202ea-5073-4b35-91f8-f039184af642.jpg)
+![image](https://user-images.githubusercontent.com/105742149/169455218-a270b11a-9bc7-4ba7-a56c-36152e7309fe.png)
+![image](https://user-images.githubusercontent.com/105742149/169455263-6089a92a-2e60-4e41-96c9-6e8711f40dab.png)
+![image](https://user-images.githubusercontent.com/105742149/169455323-cd5d3a59-0ae5-4b79-8132-aaf5f1127254.png)
+![image](https://user-images.githubusercontent.com/105742149/169455354-9455dd5b-279c-486f-a099-b47a51e176e2.png)
+
+
 ### **Leyes de Kirchhoff**
 
 Las leyes de Kirchhoff del voltaje y la corriente permanecen en el corazón del estudio de circuitos. Con estas 2 leyes, más las ecuaciones para cada elemento personal (resistor, capacitor, inductor), poseemos el grupo de herramientas primordiales que requerimos para empezar a examinar circuitos. 
