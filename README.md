@@ -39,6 +39,8 @@ Además puedes enunciar la ley de voltaje de Kirchhoff de otra forma: cerca de u
 **a)** Armar el siguiente circuito que se encuentra en la figura.
 
 ![Cir](https://user-images.githubusercontent.com/105742149/169410805-e6de345e-6a6f-42c3-b84d-778f44b0da17.jpeg)
+![image](https://user-images.githubusercontent.com/105674953/169410915-47e951b3-8ddc-45c6-9f47-30eeb69d0bb9.png)
+
 
 *Figura de referencia*
 
