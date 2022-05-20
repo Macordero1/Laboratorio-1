@@ -44,21 +44,21 @@ Se requiere un análisi exhaustivo del circuito mostrado en la figura 1.1. Anote
 
 **a)** Armar el siguiente circuito que se encuentra en la figura.
 
-![Cir](https://user-images.githubusercontent.com/105742149/169410805-e6de345e-6a6f-42c3-b84d-778f44b0da17.jpeg)
+![Cir](https://user-images.githubusercontent.com/105742149/169480128-ca73ee6a-688f-411e-8286-01dec818c96a.jpeg)
 
 *Figura de referencia 1.1*
 
 ### **1.5.1. Arme el circuito que se muestra en la figura 1.1**
 
-![arma](https://user-images.githubusercontent.com/105742149/169411398-514e72b5-302c-480c-ae28-59bf671fa9bf.jpeg)
+![image](https://user-images.githubusercontent.com/105742149/169480182-0926cf2f-9d94-4287-a52a-3ffe7302952f.png)
 
 *Circuito Armado*
 
-![volta](https://user-images.githubusercontent.com/105742149/169427166-7def9d71-e2f6-47b2-8063-160752893468.jpeg)
+![image](https://user-images.githubusercontent.com/105742149/169480266-fe7bd0a0-95b7-443d-a395-bf9ce1408d81.png)
 
 *Toma de medidas de voltaje*
 
-![CORRIENTE](https://user-images.githubusercontent.com/105742149/169427267-6bb7614b-c91d-4ddc-a6ea-98e2b0a286b5.jpeg)
+![image](https://user-images.githubusercontent.com/105742149/169480297-c03825de-e721-4c7d-9f2a-8df05b6637d4.png)
 
 *Toma de medidas de corriente*
 
@@ -68,6 +68,41 @@ Se requiere un análisi exhaustivo del circuito mostrado en la figura 1.1. Anote
 
 ![t1](https://user-images.githubusercontent.com/105742149/169474954-d592ac5b-f474-4992-aa32-7dafd89a4ecc.jpeg)
 
+![image](https://user-images.githubusercontent.com/105742149/169480412-6bb940d3-3b26-4f72-aa46-d747a5f367bc.png)
+
+***Calculo Resistencia total***
+
+![image](https://user-images.githubusercontent.com/105742149/169480459-ee906902-c6e1-44d9-bc19-fd229065d49e.png)
+
+ ***Corriente Total***
+ 
+![image](https://user-images.githubusercontent.com/105742149/169480548-a32d14c0-ec69-4f7e-9ac2-c49e5fc3dd94.png)
+
+***Intensidad y voltaje en R1***
+
+![image](https://user-images.githubusercontent.com/105742149/169480659-838b1ca6-d89e-4f84-a031-69645aaac89b.png)
+
+***Intensidad y voltaje en R5***
+
+![image](https://user-images.githubusercontent.com/105742149/169480734-1d88738e-5eb5-45ac-b361-f5d7f76d71fb.png)
+
+***Voltaje en R7***
+
+![image](https://user-images.githubusercontent.com/105742149/169480803-a5c08a9e-992f-4342-9114-ea22db37e971.png)
+
+***Intensidad y voltaje en R2***
+
+![image](https://user-images.githubusercontent.com/105742149/169480876-246cb5c9-faac-4961-a487-cfa89b59accc.png)
+
+***Intensidad en R6***
+
+![image](https://user-images.githubusercontent.com/105742149/169480968-446a4614-9a9a-4124-b7b7-b695afde1557.png)
+
+***Voltaje en R3, intensidad en R3***
+
+![image](https://user-images.githubusercontent.com/105742149/169481062-ab351486-2071-4461-b6b4-745817da2e74.png)
+
+***Voltaje en R4, intensidad en R4***
 
 ### **1.5.3 Verifique si se cumple la ley de Kirchhoff de voltajes en cada trayectoria cerrada, considerando las elevaciones de voltaje con signo positivo y las caidas de voltaje con signo negativo. Anote los resultados en la tabla 1.2**
 
