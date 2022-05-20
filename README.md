@@ -34,30 +34,6 @@ Se requiere un análisi exhaustivo del circuito mostrado en la figura 1.1. Anote
 ![image](https://user-images.githubusercontent.com/105742149/169455323-cd5d3a59-0ae5-4b79-8132-aaf5f1127254.png)
 ![image](https://user-images.githubusercontent.com/105742149/169455354-9455dd5b-279c-486f-a099-b47a51e176e2.png)
 
-
-### **Leyes de Kirchhoff**
-
-Las leyes de Kirchhoff del voltaje y la corriente permanecen en el corazón del estudio de circuitos. Con estas 2 leyes, más las ecuaciones para cada elemento personal (resistor, capacitor, inductor), poseemos el grupo de herramientas primordiales que requerimos para empezar a examinar circuitos. 
-
-### **Ley de voltaje de Kirchhooff**
-
-La ley de la corriente de Kirchhoff plantea que la suma de cada una de las corrientes que fluyen hacia un nodo es igual a la suma de las corrientes que salen del nodo. Se puede redactar como.
-
-![f](https://user-images.githubusercontent.com/105742149/169408767-0b76ec89-7bfc-477a-963b-de87d1d8e34d.jpeg)
-
-### **Ley de corriente de Kirchhoff**
-
-Ley de voltaje de Kirchhoff: La suma de los voltajes cerca de una malla es igual a cero.
-Podemos redactar la ley de voltaje de Kirchhoff como 
-
-![d](https://user-images.githubusercontent.com/105742149/169409106-fbfc245e-9504-45d2-a17c-5d01fb5b9830.jpeg)
-
-donde n es el número de voltajes de los elementos en la malla.
-Además puedes enunciar la ley de voltaje de Kirchhoff de otra forma: cerca de una malla, la suma de subidas de voltaje es igual a la suma de bajadas de voltaje. 
-
-![g](https://user-images.githubusercontent.com/105742149/169409449-b99e1999-59d0-4023-93d1-b4e9d6ca1a6e.jpeg)
-
-
 ## **1.4. Material y Equipo requerido**
 
 ![tab](https://user-images.githubusercontent.com/105742149/169410480-792ec70b-34d1-4f60-9978-08e1737882a8.jpeg)
