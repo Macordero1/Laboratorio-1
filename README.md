@@ -76,10 +76,10 @@ Se requiere un análisi exhaustivo del circuito mostrado en la figura 1.1. Anote
 
 ### **1.5.5. Compare los resultados medidos con los valores obtenidos al analizar el circuito analíticamente y concluya al respecto.**
 
-## **Conclusión** 
+## **1.6. Conclusión** 
 * Llegamos a la conclusión que cada cálculo realizado se obtuvieron con una buena aplicación de las fórmulas para cada unidad de medida como voltaje, resistencia y corriente además del Tinkercad simulando el circuito e interpretándolo para cada una de las mediciones correspondientes.
 
-## **Bibliografía**
+## **1.7. Bibliografía**
 Concepcion, R. (2 de 07 de 2020). Rj Concepcion . Obtenido de https://www.rjconcepcion.com/podcast/ohm-y-kirchoff-las-leyes-que-debes-saber/
 Tecnologia, A. (2018). AreaTecnologia. Obtenido de https://www.areatecnologia.com/TUTORIALES/CALCULO%20CIRCUITOS%20ELECTRICOS.htm
 
