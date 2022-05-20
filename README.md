@@ -74,6 +74,18 @@ Se requiere un análisi exhaustivo del circuito mostrado en la figura 1.1. Anote
 
 ![Ta 2](https://user-images.githubusercontent.com/105742149/169469745-d6029493-42aa-4d9d-b4ec-183bb8bb242a.jpeg)
 
+***Calculos Trayectoria 1***
+
+![r1](https://user-images.githubusercontent.com/105742149/169472440-613ebd30-f0e3-41a8-9d2c-b16b14e71fb3.jpeg)
+
+***Calculos Trayectoria 2***
+
+![r2](https://user-images.githubusercontent.com/105742149/169472767-40e79eb6-f880-43ea-a9ec-bd0d741c4408.jpeg)
+
+***Calculos Trayectoria 3***
+
+![r3](https://user-images.githubusercontent.com/105742149/169472940-7406778f-e960-46a0-83db-d9eaafff3a03.jpeg)
+
 
 ### **1.5.4. Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando con signo positivo las corrientes que entran al nodo y con signo negativo las que salendel nodo. Anote los resultados en la tabla 1.3.**
 
