@@ -1,5 +1,26 @@
 # Laboratorio-1
+
+**Nombre de los Estudiante:** Caza Marlon, Cobos Elian, Cordero Martin
+
+**Nombre del Docente:** Ing. Darwin Alulema
+
+**Fecha de entrega:** 20/05/2022
+
+**NRC:** 7309
+
+**Asignatura:** Fundamentos de Circuitos Eléctricos
+
 ## **1.1. Objetivos de la práctica**
+
+### **Objetivo General**
+
+* Utilizar las leyes de kirchoff de corriente y voltaje empleandose en un simulador virtual (Tinkercad)
+
+### **Objetivos Especificos** 
+
+* Realizar mediciones de un circuito en serie utilizando un simulador virtual.
+* Comprender el uso de resistencias y calcular el voltaje y la carga que presentan cada una de ellas.
+* 
 
 ## **1.2. Requisitos Previos**
 
@@ -34,6 +55,8 @@ Además puedes enunciar la ley de voltaje de Kirchhoff de otra forma: cerca de u
 
 ![tab](https://user-images.githubusercontent.com/105742149/169410480-792ec70b-34d1-4f60-9978-08e1737882a8.jpeg)
 
+![Mate](https://user-images.githubusercontent.com/105742149/169427669-381099dd-6008-4208-b7b1-05ea3d64ad1a.jpeg)
+
 ## **1.5. Procedimiento**
 
 **a)** Armar el siguiente circuito que se encuentra en la figura.
@@ -47,6 +70,14 @@ Además puedes enunciar la ley de voltaje de Kirchhoff de otra forma: cerca de u
 ![arma](https://user-images.githubusercontent.com/105742149/169411398-514e72b5-302c-480c-ae28-59bf671fa9bf.jpeg)
 
 *Circuito Armado*
+
+![volta](https://user-images.githubusercontent.com/105742149/169427166-7def9d71-e2f6-47b2-8063-160752893468.jpeg)
+
+*Toma de medidas de voltaje*
+
+![CORRIENTE](https://user-images.githubusercontent.com/105742149/169427267-6bb7614b-c91d-4ddc-a6ea-98e2b0a286b5.jpeg)
+
+*Toma de medidas de corriente*
 
 ### **1.5.2. Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los resultados de las mediciones en la tabla 1.1**
 
