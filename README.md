@@ -20,7 +20,7 @@
 
 * Realizar mediciones de un circuito en serie utilizando un simulador virtual.
 * Comprender el uso de resistencias y calcular el voltaje y la carga que presentan cada una de ellas.
-* 
+* Analizar un circuito mixto, e interpretarlo desde un diagrama.
 
 ## **1.2. Requisitos Previos**
 
