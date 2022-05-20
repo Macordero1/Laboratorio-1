@@ -127,6 +127,10 @@ Se requiere un análisi exhaustivo del circuito mostrado en la figura 1.1. Anote
 
 ### **Tabla 1.3. Verificación de la LCK.**
 
+![1](https://user-images.githubusercontent.com/105742149/169481683-18452c98-7f11-486b-842a-eec119026c27.jpeg)
+
+![2](https://user-images.githubusercontent.com/105742149/169481707-ada2e282-98e6-49ab-9109-22fd73881d31.jpeg)
+
 ### **1.5.5. Compare los resultados medidos con los valores obtenidos al analizar el circuito analíticamente y concluya al respecto.**
 
 Los resultados logrados que se aplicaron correctamente con el menor desprecio de decimales regresa al investigador una porción que ronda entre los valores reales, dichos valores van a ser más precisos de acuerdo con el procedimiento que se use para calcular los resultados
