@@ -40,9 +40,13 @@ Además puedes enunciar la ley de voltaje de Kirchhoff de otra forma: cerca de u
 
 ![Cir](https://user-images.githubusercontent.com/105742149/169410805-e6de345e-6a6f-42c3-b84d-778f44b0da17.jpeg)
 
-
+*Figura de referencia*
 
 ### **1.5.1. Arme el circuito que se muestra en la figura 1.1**
+
+![arma](https://user-images.githubusercontent.com/105742149/169411398-514e72b5-302c-480c-ae28-59bf671fa9bf.jpeg)
+
+*Circuito Armado*
 
 ### **1.5.2. Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los resultados de las mediciones en la tabla 1.1**
 
