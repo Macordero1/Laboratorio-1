@@ -66,6 +66,8 @@ Se requiere un análisi exhaustivo del circuito mostrado en la figura 1.1. Anote
 
 ### **Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito**
 
+![Ta 1](https://user-images.githubusercontent.com/105742149/169464553-2597056f-20ae-493b-abbd-39a7b7c06561.jpeg)
+
 ### **1.5.3 Verifique si se cumple la ley de Kirchhoff de voltajes en cada trayectoria cerrada, considerando las elevaciones de voltaje con signo positivo y las caidas de voltaje con signo negativo. Anote los resultados en la tabla 1.2**
 
 ### **Tabla 1.2. Verificacion de la LVK**
