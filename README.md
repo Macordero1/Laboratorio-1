@@ -63,7 +63,7 @@ Además puedes enunciar la ley de voltaje de Kirchhoff de otra forma: cerca de u
 
 ![Cir](https://user-images.githubusercontent.com/105742149/169410805-e6de345e-6a6f-42c3-b84d-778f44b0da17.jpeg)
 
-*Figura de referencia*
+*Figura de referencia 1.1*
 
 ### **1.5.1. Arme el circuito que se muestra en la figura 1.1**
 
