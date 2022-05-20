@@ -76,6 +76,8 @@ Se requiere un análisi exhaustivo del circuito mostrado en la figura 1.1. Anote
 
 ### **1.5.5. Compare los resultados medidos con los valores obtenidos al analizar el circuito analíticamente y concluya al respecto.**
 
+Los resultados logrados que se aplicaron correctamente con el menor desprecio de decimales regresa al investigador una porción que ronda entre los valores reales, dichos valores van a ser más precisos de acuerdo con el procedimiento que se use para calcular los resultados
+
 ## **1.6. Conclusión** 
 * Llegamos a la conclusión que cada cálculo realizado se obtuvieron con una buena aplicación de las fórmulas para cada unidad de medida como voltaje, resistencia y corriente además del Tinkercad simulando el circuito e interpretándolo para cada una de las mediciones correspondientes.
 
